@@ -39,20 +39,20 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=majidpy89&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=majidpy89&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=majidpy89&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MajidShajari&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MajidShajari&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MajidShajari&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=majidpy89&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=MajidShajari&theme=onedark&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ## 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=majidpy89&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MajidShajari&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 
-<!-- [![](https://visitcount.itsvg.in/api?id=majidpy89&icon=7&color=11)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=MajidShajari&icon=7&color=11)](https://visitcount.itsvg.in) -->
