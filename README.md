@@ -18,8 +18,8 @@ I'm a data scientist with expertise in Python and financial data analysis. My pa
 ## 🔗 Connect with Me
 
 * [Email](majidpy89@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/majid-shajari/)
-* [Personal Website](https://www.example.com/)
+<!-- * [LinkedIn](https://www.linkedin.com/in/majid-shajari/)
+* [Personal Website](https://www.example.com/) -->
 
 ## 📊 GitHub Stats
 
@@ -27,7 +27,7 @@ I'm a data scientist with expertise in Python and financial data analysis. My pa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MajidShajari&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MajidShajari&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 Top Projects
+<!-- ## 🏆 Top Projects
 
 * [Project 1](https://github.com/user/project1) - Description of project
 * [Project 2](https://github.com/user/project2) - Description of project
@@ -39,6 +39,7 @@ I'm a data scientist with expertise in Python and financial data analysis. My pa
 * Certification 2 - Issuing organization
 * Training course 1 - Training provider
 * Training course 2 - Training provider
+ -->
 ## 
 
 <table align="center">
