@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Algorithmic Trading,Financial data analysis**
 - 🌱 I’m currently learning **react, javascript**
 - 💬 Ask me about **Data analysis in financial markets**
-- 📫 How to reach me **majidpy89@gmail.com**
+- 📫 How to reach me [**send me email**](majidpy89@gmail.com)
 <!-- - 💻 All of my projects are available at
 - 📄 Know about my experiences
 - ⚡ Fun fact -->
