@@ -13,8 +13,8 @@ I'm a data scientist with expertise in Python and financial data analysis. My pa
 * PostgreSQL
 * Django
 * Git
-* Raspberry Pi
-* 
+* Raspberry Pi 
+
 ## 🔗 Connect with Me
 
 * [Email](majidpy89@gmail.com)
