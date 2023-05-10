@@ -1,16 +1,23 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">A Python Data Scientist</h3>
+<h3 align="center">A Python Data Analyst</h3>
 
 ## 💫 About Me
-
-I'm a data scientist with expertise in Python and financial data analysis. My passion lies in developing algorithmic trading strategies and using data to drive business decisions. I'm currently learning React and JavaScript to expand my front-end development skills.
+- Data Analyst and Data Scientist experienced in data analysis and pattern extraction in the stock industry.
+- Proficient in collecting and preprocessing stock data from various sources.
+- Skilled in advanced data analysis algorithms and methods to extract patterns and insights related to buying and selling points of stocks.
+- Ability to visualize data and provide meaningful reports and statistics for strategic decision-making.
+- Experience using relevant tools and programming languages such as Python, R, and SQL.
+- Team player with excellent communication skills and the ability to interpret analytical results for non-technical audiences.
 
 ## 💻 Tech Stack
 
 * Python
-* GraphQL
-* MongoDB
+* pandas
+* matplotlib
+* scikit-learn
 * PostgreSQL
+* MongoDB
+* GraphQL
 * Django
 * Git
 * Raspberry Pi 
