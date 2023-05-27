@@ -6,7 +6,7 @@
 - Proficient in collecting and preprocessing stock data from various sources.
 - Skilled in advanced data analysis algorithms and methods to extract patterns and insights related to buying and selling points of stocks.
 - Ability to visualize data and provide meaningful reports and statistics for strategic decision-making.
-- Experience using relevant tools and programming languages such as Python, R, and SQL.
+- Experience using relevant tools and programming languages such as Python, and SQL.
 - Team player with excellent communication skills and the ability to interpret analytical results for non-technical audiences.
 
 ## 💻 Tech Stack
