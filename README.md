@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Majid</h1>
-<h3 align="center">A Python Data Analyst</h3>
+<h3 align="center">A Data Analyst</h3>
 
 ## 💫 About Me
 - Data Analyst and Data Scientist experienced in data analysis and pattern extraction in the stock industry.
