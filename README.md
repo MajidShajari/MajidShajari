@@ -23,8 +23,7 @@
 * Raspberry Pi 
 
 ## 🔗 Connect with Me
-
-* [Email](majidpy89@gmail.com)
+<a href="mailto:majidpy89@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="majidpy89" height="30" width="40" /></a>
 <!-- * [LinkedIn](https://www.linkedin.com/in/majid-shajari/)
 * [Personal Website](https://www.example.com/) -->
 
