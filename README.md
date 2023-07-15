@@ -47,10 +47,9 @@
 * Training course 2 - Training provider
  -->
 ## 
-
-<table align="center">
+<!--<table align="center">
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/MajidShajari/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/MajidShajari/count.svg" alt="visitor" /></td>
   </tr>
-</table>
+</table>-->
