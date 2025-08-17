@@ -136,6 +136,4 @@ Acquired foundational knowledge in:
 
 ## 📬 Contact
 
-- [**GitHub**](https://github.com/MajidShajari)
-- [**Email**](shajari.py@gmail.com)
-- [**LinkedIn**](www.linkedin.com/in/shajaripy)
+[![gmail](https://img.icons8.com/color/48/gmail-new.png)](mailto:shajari.py@gmail.com) [![Lonkedin](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/shajaripy)
